@@ -30,8 +30,11 @@
     
     self.my_label.text = @"kjskjfoisjfoijaojoiaj";
     
-    UIAlertController *fff= [UIAlertController new];
-    
+    NSLog(@"到底是什么情况");
+    NSLog(@"怎么回事");
+    NSLog(@"我去");
+
+
     
     
 }
